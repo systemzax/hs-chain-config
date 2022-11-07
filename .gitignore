@@ -1,0 +1,4 @@
+chain.log
+config/protocol_features
+data/*
+eosd.pid
